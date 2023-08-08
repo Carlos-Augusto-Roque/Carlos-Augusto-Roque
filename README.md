@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
+![](https://komarev.com/ghpvc/?username=Carlos-Augusto-Roque)
+
 <div>
  
  Meu nome é Carlos, sou Instrutor de Formação Profissional III na Escola Senai de informática. 
