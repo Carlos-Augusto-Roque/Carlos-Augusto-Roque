@@ -62,13 +62,13 @@
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
  </a>
  <a href="https://www.credly.com/earner/earned/badge/3ecf74e1-3633-43d6-add2-6a0e5c00be26">
-  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"/>
- </a>
- <a href="https://www.credly.com/earner/earned/badge/3ecf74e1-3633-43d6-add2-6a0e5c00be26">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png"/>
  </a>
  <a href="https://www.credly.com/earner/earned/badge/3ecf74e1-3633-43d6-add2-6a0e5c00be26">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"/>
+ </a>
+ <a href="https://www.credly.com/earner/earned/badge/3ecf74e1-3633-43d6-add2-6a0e5c00be26">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"/>
  </a>
  
 </div>
