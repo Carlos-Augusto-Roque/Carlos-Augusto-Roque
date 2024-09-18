@@ -43,7 +43,6 @@
   <h2>🎓 Formação Acadêmica 🎓</h2> 
  ⚙️ Bacharel em Engenharia de Produção Mecânica - Universidade do Grande ABC <br>
  ⚙️ Pós Graduação em Gestão Empresarial - Universidade Metodista de São Paulo <br>
- ⚙️ Pós Graduação em Engenharia de Software - Pontífica Universidade Católica (PUC-MG) - Cursando <br>
  💻 Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
 </div>
 
