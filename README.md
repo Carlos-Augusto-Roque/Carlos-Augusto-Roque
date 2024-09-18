@@ -70,6 +70,11 @@
  <a href="https://www.credly.com/earner/earned/badge/3ecf74e1-3633-43d6-add2-6a0e5c00be26">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png"/>
  </a>
+<a href="https://www.credly.com/earner/earned/badge/f58edd25-2aec-428b-8a95-3ab85d8819a7">
+  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
+</a>
+ 
+
  
 </div>
  
