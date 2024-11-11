@@ -76,6 +76,15 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/c47f5611-43ab-4480-a5a7-27df576830b0/badges/12769962">
   <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/BJUVIP09izx0fRzcISX%2BJREqknYwQ5rUJpnelSuFlKc%3D"/>
 </a>
+<a href="https://www.cloudskillsboost.google/public_profiles/c47f5611-43ab-4480-a5a7-27df576830b0/badges/12770312">
+  <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/teuTnmFi96VycJaZff9bmOfUQMz1tgPiTtsCH2iBBY8%3D"/>
+</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/c47f5611-43ab-4480-a5a7-27df576830b0/badges/12770137">
+  <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/Pr97k6fZ8iHUAC57bOJI%2B5HwzCY5F2cVYtQwBV2Q2Dk%3D"/>
+</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/c47f5611-43ab-4480-a5a7-27df576830b0/badges/12770449">
+  <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/2meoeAeFaFRp5SS3rOx%2BrkHovx%2B%2FYhhByzW4OIhF5L4%3D"/>
+</a>
  
 
  
