@@ -72,6 +72,10 @@
 <a href="https://www.credly.com/earner/earned/badge/f58edd25-2aec-428b-8a95-3ab85d8819a7">
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
 </a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/c47f5611-43ab-4480-a5a7-27df576830b0/badges/12769962">
+  <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/BJUVIP09izx0fRzcISX%2BJREqknYwQ5rUJpnelSuFlKc%3D"/>
+</a>
  
 
  
