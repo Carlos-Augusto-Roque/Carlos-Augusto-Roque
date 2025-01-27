@@ -1,18 +1,13 @@
-## Olá 👋 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
+## Olá, bem-vindo ao meu perfil! 👋 
 
 ![](https://komarev.com/ghpvc/?username=Carlos-Augusto-Roque)
 
 <div>
  
- Meu nome é Carlos, sou Instrutor de Formação Profissional III na Escola Senai de informática. 
-
- Como instrutor atuo no curso Técnico em Desenvolvimento de Sistemas e já atuei na Central de Tutoria e Monitoria.
-
- Atuei também como desenvolvedor Backend com as linguagens Python e Java.
-
- Meus hobbies são corrida de rua🏃 e ciclismo🚵‍♂️.
+🎓 Meu nome é **Carlos Augusto Roque**, sou **Instrutor de Formação Profissional III** na Escola Senai de Informática há 3 anos. <br>
+💻 Atuo como instrutor no curso **Técnico em Desenvolvimento de Sistemas**. <br>
+🚀 Tenho experiência de mercado como **Desenvolvedor Backend**, trabalhando com as linguagens **Python** e **Java**. <br>
+🏃 **Hobbies:** Sou apaixonado por corrida de rua e ciclismo 🚵‍♂️ e amo churrasco 🍖.
 
 </div>
 
@@ -43,7 +38,7 @@
   <h2>🎓 Formação Acadêmica 🎓</h2> 
  ⚙️ Bacharel em Engenharia de Produção Mecânica - Universidade do Grande ABC <br>
  ⚙️ Pós Graduação em Gestão Empresarial - Universidade Metodista de São Paulo <br>
- 💻 Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília <br>
+ 💻 Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática <br>
 </div>
 
 <div>
@@ -93,9 +88,8 @@
   <div>
    <h2>🌐 Contato 🌐</h2> 
    <a href = "mailto:roqueaugustocarlos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/roquecarlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
- </div>
+   <a href="https://www.linkedin.com/in/roquecarlos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  </div>
 
  <h2>:page_with_curl: Artigos Publicados :page_with_curl:</h2> 
 
