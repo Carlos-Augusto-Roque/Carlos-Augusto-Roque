@@ -6,7 +6,7 @@
  
 🎓 Meu nome é **Carlos Augusto Roque**, sou **Instrutor de Formação Profissional III** na Escola Senai de Informática há 3 anos. <br>
 💻 Atuo como instrutor no curso **Técnico em Desenvolvimento de Sistemas**. <br>
-🚀 Tenho experiência de mercado como **Desenvolvedor Backend**, trabalhando com as linguagens **Python** e **Java**. <br>
+🚀 Tenho experiência de mercado como **Desenvolvedor Backend**. <br>
 🏃 **Hobbies:** Sou apaixonado por corrida de rua e ciclismo 🚵‍♂️ e amo churrasco 🍖.
 
 </div>
