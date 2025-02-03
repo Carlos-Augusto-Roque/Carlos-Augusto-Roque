@@ -80,7 +80,9 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/c47f5611-43ab-4480-a5a7-27df576830b0/badges/12770449">
   <img width="10%" height="10%"  src="https://cdn.qwiklabs.com/2meoeAeFaFRp5SS3rOx%2BrkHovx%2B%2FYhhByzW4OIhF5L4%3D"/>
 </a>
- 
+ <a href="https://www.credly.com/badges/6e175774-4bcd-4a87-bf7d-e12d5d3122c1/public_url">
+  <img width="10%" height="10%"  src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"/>
+</a>
 
  
 </div>
